@@ -1,0 +1,6 @@
+﻿  w8.cpp
+c:\users\vectorxz\downloads\sec1group4\sec1group4\sec1group4\w8.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\vectorxz\downloads\sec1group4\sec1group4\sec1group4\w8.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\vectorxz\downloads\sec1group4\sec1group4\sec1group4\w8.cpp(157): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\vectorxz\downloads\sec1group4\sec1group4\sec1group4\w8.cpp(158): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sec1Group4.vcxproj -> C:\Users\VectorXz\Downloads\Sec1Group4\Sec1Group4\x64\Debug\Sec1Group4.exe
